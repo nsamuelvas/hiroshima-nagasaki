@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://i0.wp.com/quiprocura.net/w/wp-content/uploads/2015/06/BOMBA-ATOMICA.jpg?resize=800%2C321");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}h1{
+    text-align: center;
+    color: rgb(255, 251, 0);
+}h2{
+    margin-left: 15px;
+}h3{
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+}p{
+    margin-left: 5px;
+}section{
+    border: 5px black solid;
+    background-color: rgb(255, 55, 55);
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}img{
+    margin-left: 20px;
+}a{
+    color: blue;
+}
